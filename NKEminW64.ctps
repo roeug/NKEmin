@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="NKEminW64.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="62" Y="73"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitSplashMin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormSplashMin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ChainClassesMin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Encryp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1308"/>
+        <CursorPos X="53" Y="1330"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitDPrChooseCriteriaNKEmin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormDPRChooseCriteriaMin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitEditElementMin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormEditElementMin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormEditNuclideMin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="878"/>
+        <CursorPos Y="896"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitFormListMin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormListMin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="97"/>
+        <CursorPos Y="122"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitGoToDialogMin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormGoToDialogMin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitLegendMin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormLegendMin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="45" Y="13"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitNKmin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormNKmin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1777"/>
+        <CursorPos X="36" Y="1795"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DM_OOD.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="9"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="3" Y="14"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitDecayMin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormDecayMin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="EuLibMin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitChooseCriteriaMin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormChooseCriteriaMin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="154"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitChainNKEmin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormChainNKEmin"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="QStringsMin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="13"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="5485"/>
+        <CursorPos X="57" Y="5506"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ObjectsMin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="10"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="11253"/>
+        <CursorPos X="71" Y="10956"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitDM_OOB.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\ChainSolverMin_was\CadClassesMin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="PanelFileName.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="37"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Parsing.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="11"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="58"/>
+        <CursorPos X="13" Y="58"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\customform.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="19"/>
+        <CursorPos X="45" Y="38"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\wincontrol.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="7533"/>
+        <CursorPos Y="7546"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="RXTCONST.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="RXTConst"/>
+        <EditorIndex Value="12"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="29"/>
+        <CursorPos Y="38"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="UnitNKmin.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitNKmin.pas"/>
+        <Caret Line="519" Column="43" TopLine="501"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitNKmin.pas"/>
+        <Caret Line="517" Column="27" TopLine="505"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitNKmin.pas"/>
+        <Caret Line="519" Column="67" TopLine="503"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="1332" Column="67" TopLine="1313"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="42" Column="17" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="548" Column="22" TopLine="525"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="555" Column="22" TopLine="532"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="560" Column="26" TopLine="538"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="568" Column="24" TopLine="546"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="576" Column="24" TopLine="554"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="586" Column="24" TopLine="564"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="594" Column="24" TopLine="572"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="636" Column="29" TopLine="614"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="648" Column="30" TopLine="626"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="649" Column="33" TopLine="627"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="654" Column="18" TopLine="638"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="657" Column="18" TopLine="638"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="771" Column="22" TopLine="749"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="889" Column="42" TopLine="871"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="890" Column="3" TopLine="876"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="783" Column="6" TopLine="773"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="893" Column="47" TopLine="878"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="890" TopLine="877"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitEditNuclideMin.pas"/>
+        <Caret Line="892" Column="54" TopLine="878"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitFormListMin.pas"/>
+        <Caret Line="232" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitFormListMin.pas"/>
+        <Caret Line="222" Column="2" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitFormListMin.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitFormListMin.pas"/>
+        <Caret Line="115" Column="10" TopLine="93"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="ObjectsMin.pas"/>
+        <Line Value="10524"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="aRect.Bottom"/>
+      </Item>
+      <Item>
+        <Expression Value="TGraphic(aBitmap).Height"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
