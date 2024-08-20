@@ -22,3 +22,4 @@ Save image to file - test it
 Help file NKE.hlp - later ?
 Dock forms Nuclide, FoundList - ok in Win, LINUX - TODO
   
+64-bit versions (the last ones) are at Gitlab now
